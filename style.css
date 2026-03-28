@@ -255,22 +255,3 @@ footer p {
     height: 220px;
   }
 }
-/* HERO TITLE BACKGROUND */
-.title-bg {
-  background: rgba(0, 0, 0, 0.55);
-  padding: 30px 40px;
-  border-radius: 12px;
-  display: inline-block;
-  backdrop-filter: blur(6px);
-  max-width: 650px;
-}
-
-.title-bg h1 {
-  color: white;
-  margin-bottom: 10px;
-}
-
-.title-bg p {
-  color: #e0e0e0;
-  margin-bottom: 15px;
-}
